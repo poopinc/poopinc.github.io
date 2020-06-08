@@ -1,0 +1,23 @@
+---
+layout: page
+title: {{ page.title }}
+permalink: /:title/
+---
+{% if page.author %}
+    <h4>by {{ page.author }}</h4>
+{% else %}
+    <h4>by the Company</h4>
+{% endif %}  
+<br>
+<div class="card mb-3">
+    {% if page.post_image_url %}
+    <img class="card-img-top" src="{{ page.post_image_url }}" alt="Card image cap">
+    {% endif %}
+    <div class="card-body">
+      
+      <p class="card-text">{{ content }}</p>
+      <p class="card-text"><small class="text-muted">
+    
+    </small></p>
+    </div>
+  </div>

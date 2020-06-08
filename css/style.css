@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Playfair+Display+SC:wght@700&display=swap');@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Playfair+Display+SC:wght@700&display=swap');
+
+@media (prefers-color-scheme: light) {
+        body {
+        color: white;
+        background: black
+    }
+}
+
+.spacing_settings {
+    margin-left: 50px;
+}
+
+/* ----------- Non-Retina Screens ----------- */
+@media screen 
+  and (min-device-width: 1200px) 
+  and (max-device-width: 1600px) 
+  and (-webkit-min-device-pixel-ratio: 1) { 
+    .input-settings {
+        padding-left: 200px;
+        padding-right: 200px;
+    }
+
+    .input-big-settings {
+    padding: 50px;
+    font-size: 20px;
+    }
+
+    .spacing_settings_controller {
+        margin: 30px;
+    }
+
+    #img404 {
+        margin-left: 30%;
+        width: 300px;
+    }
+
+    #no-results {
+        margin-left: 30%;
+        width: 300px;
+    }
+}
+
+/* ----------- Retina Screens ----------- */
+@media screen 
+  and (min-device-width: 1200px) 
+  and (max-device-width: 1600px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (min-resolution: 192dpi) { 
+    .input-settings {
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+
+    .input-big-settings {
+    padding: 30px;
+    font-size: 20px;
+    }
+
+    .spacing_settings_controller {
+        margin: 30px;
+    }
+
+    #img404 {
+        margin-left: 30%;
+        width: 300px;
+    }
+
+    #no-results {
+        margin-left: 30%;
+        width: 300px;
+    }
+}
+
+
+.input-big-settings {
+    padding: 20px;
+    font-size: 20px;
+}
+
+.page-name {
+    font-family: 'Playfair Display SC', serif;
+}
+
+.search-engine-settings {
+    margin-top: 90px;
+    font-family: 'Abril Fatface', cursive;
+    text-align: center;
+}
+
+.small-search-engine-settings {
+    /* margin-top: 90px; */
+    font-size: 50px;
+    font-family: 'Abril Fatface', cursive;
+    text-align: left;
+}
+
+
+.centering-settings {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;  
+}
+
+#no-results {
+    margin-left: 25%;
+    width: 43%;
+}
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+    .spacing_settings_controller {
+        margin: 20px;
+    }
+
+    #img404 {
+        margin-left: 25%;
+        width: 50%;
+    }
+
+    #no-results {
+        margin-left: 25%;
+        width: 45%;
+    }
+}

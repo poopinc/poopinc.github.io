@@ -1,0 +1,80 @@
+I"6<p class="text-justify">we are a small and smart team of a great employees that make thing the right way, our company founded in 2020 by 2 Two Great Men there plan is to make a better life for their futuriestic customers with Caring about there Privacy. and we Eat Potato 🥔</p>
+<h1 class="page-name">Team</h1>
+<div class="spacing_settings">
+<div class="row">
+
+
+
+    
+        <div class="spacing_settings_controller">
+        <div class="card p-3" style="width: 18rem;">
+        
+                <img src="https://kirbiecravings.com/wp-content/uploads/2019/09/easy-french-fries-1-700x881.jpg" class="card-img-top" alt="Hsn" />
+        
+            <div class="card-body">
+            <h5 class="card-title">Hsn</h5>
+            <p class="card-text">Founder</p>
+            <!-- Instagram Links -->
+            
+                <a href="https://www.instagram.com/_hsn95" class="btn btn-dark btn-sm">Instagram</a>
+            
+            <!-- Twitter Links -->
+            
+            </div>
+        </div>
+        </div>
+        
+        <div class="spacing_settings_controller">
+        <div class="card p-3" style="width: 18rem;">
+        
+                <img src="https://images-na.ssl-images-amazon.com/images/I/51idjhs2bvL._AC_SX425_.jpg" class="card-img-top" alt="Mutawa" />
+        
+            <div class="card-body">
+            <h5 class="card-title">Mutawa</h5>
+            <p class="card-text">Co-Founder &amp; Developer</p>
+            <!-- Instagram Links -->
+            
+                <a href="https://www.instagram.com/the1coder" class="btn btn-dark btn-sm">Instagram</a>
+            
+            <!-- Twitter Links -->
+            
+            </div>
+        </div>
+        </div>
+        
+        <div class="spacing_settings_controller">
+        <div class="card p-3" style="width: 18rem;">
+        
+                <img src="https://i.pinimg.com/originals/2b/de/ac/2bdeacdbbb54fa63df581dd07b5780d2.jpg" class="card-img-top" alt="Sophia Lillis" />
+        
+            <div class="card-body">
+            <h5 class="card-title">Sophia Lillis</h5>
+            <p class="card-text">General Manager</p>
+            <!-- Instagram Links -->
+            
+            <!-- Twitter Links -->
+            
+            </div>
+        </div>
+        </div>
+        
+        <div class="spacing_settings_controller">
+        <div class="card p-3" style="width: 18rem;">
+        
+                <img src="https://assets.entrepreneur.com/content/3x2/2000/20181206170226-mark-zuckerberg.jpeg" class="card-img-top" alt="Mark Zuckerburg" />
+        
+            <div class="card-body">
+            <h5 class="card-title">Mark Zuckerburg</h5>
+            <p class="card-text">Good man</p>
+            <!-- Instagram Links -->
+            
+            <!-- Twitter Links -->
+            
+            </div>
+        </div>
+        </div>
+        
+
+</div>
+</div>
+:ET

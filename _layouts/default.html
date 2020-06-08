@@ -1,0 +1,11 @@
+{% include styles.html %}
+
+{% if page.title %}
+    <title>Butler - {{ page.title }}</title>
+{% else %}
+    <title>Butler</title>
+{% endif %}
+
+{% include navbar.html %}
+{{ content }}
+{% include javascript.html %}
