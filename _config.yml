@@ -26,10 +26,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   Two Great Men there plan is to make a better life for their
   futuriestic customers with Caring about
   there Privacy. and we Eat Potato 🥔
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "butler" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: company.poop
-github_username:  poopco
+github_username:  poopinc
 
 # Build settings
 theme: minima
