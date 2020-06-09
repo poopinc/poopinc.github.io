@@ -22,10 +22,10 @@ title: Butler
 email: companypoop@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   we are a small and smart team of a great employees that make
-  thing the right way, our company founded in 2020 by 2
-  Two Great Men there plan is to make a better life for their
+  thing the right way, our company founded in 2020 by
+  Two Great Men their plan is to make a better life for their
   futuriestic customers with Caring about
-  there Privacy. and we Eat Potato 🥔
+  there Privacy. and They Eat Potato 🥔
 baseurl: "butler" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: company.poop
