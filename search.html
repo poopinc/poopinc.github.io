@@ -68,7 +68,10 @@ layout: page
   
         searchResults.innerHTML = appendString;
       } else {
+        var what_is_searched = document.getElementById("search-box").value;
+        var googlelink = "https://www.google.com.sa/search?q=" + what_is_searched;
         no_results_img.style.display = "block";
+        document.getElementById("other-websites-links").innerHtml = "<a href=googlelink>Look in Google, he could have it</a>";
       }
     }
   
