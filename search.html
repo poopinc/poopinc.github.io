@@ -71,6 +71,7 @@ layout: page
   
         searchResults.innerHTML = appendString;
       } else {
+        console.log("it worked !!!")
         var what_is_searched = document.getElementById("search-box").value;
         var googlelink = "https://www.google.com.sa/search?q=" + what_is_searched;
         no_results_img.style.display = "block";
