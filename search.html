@@ -15,7 +15,10 @@ layout: page
 
   <ul id="search-results"></ul>
   <img style="display: none;" src="https://raw.githubusercontent.com/poopinc/poopinc.github.io/master/assets/img/no-results-small.jpg" id="no-results"  alt="No Results">
-  <script>
+<div id="other-websites-links">
+  
+</div>  
+<script>
     window.store = {
       {% for post in site.posts %}
         "{{ post.url | slugify }}": {
