@@ -1,23 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Playfair+Display+SC:wght@700&display=swap');@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Playfair+Display+SC:wght@700&display=swap');
 
-body {
-    background-color: white;
-    color: #23272B;
-}
-
-/* @media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: dark) {
         body {
         color: white;
         background: black
     }
-} */
-/* 
+}
+
 @media (prefers-color-scheme: light) {
     body {
         color: black;
         background: white
     }
-} */
+}
 
 .spacing_settings {
     margin-left: 50px;
