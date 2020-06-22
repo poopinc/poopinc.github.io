@@ -1,0 +1,47 @@
+I"±<p class="text-justify">we are a small and smart team of a great employees that make thing the right way, our company founded in 2020 by Two Great Men their plan is to make a better life for their futuriestic customers with Caring about there Privacy. and They Eat Potato ðŸ¥”</p>
+<h1 class="page-name">Team</h1>
+<div class="spacing_settings">
+<div class="row">
+
+
+
+    
+        <div class="spacing_settings_controller">
+        <div class="card mb-2" style="width: 18rem;">
+        
+                <img src="https://kirbiecravings.com/wp-content/uploads/2019/09/easy-french-fries-1-700x881.jpg" class="card-img-top" alt="Hsn" />
+        
+            <div class="card-body">
+            <h5 class="card-title">Hsn</h5>
+            <p class="card-text">Founder</p>
+            <!-- Instagram Links -->
+            
+                <a href="https://www.instagram.com/_hsn95" class="btn btn-dark btn-sm">Instagram</a>
+            
+            <!-- Twitter Links -->
+            
+            </div>
+        </div>
+        </div>
+        
+        <div class="spacing_settings_controller">
+        <div class="card mb-2" style="width: 18rem;">
+        
+                <img src="https://images-na.ssl-images-amazon.com/images/I/51idjhs2bvL._AC_SX425_.jpg" class="card-img-top" alt="Mutawa" />
+        
+            <div class="card-body">
+            <h5 class="card-title">Mutawa</h5>
+            <p class="card-text">Developer</p>
+            <!-- Instagram Links -->
+            
+                <a href="https://www.instagram.com/the1coder" class="btn btn-dark btn-sm">Instagram</a>
+            
+            <!-- Twitter Links -->
+            
+            </div>
+        </div>
+        </div>
+        
+</div>
+</div>
+:ET
