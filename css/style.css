@@ -6,13 +6,13 @@
         background: black
     }
 } */
-
+/* 
 @media (prefers-color-scheme: light) {
     body {
         color: black;
         background: white
     }
-}
+} */
 
 .spacing_settings {
     margin-left: 50px;
